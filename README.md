@@ -1,4 +1,6 @@
 # 👩‍💻 About Me:
+![Happy Tik Tok GIF](https://github.com/user-attachments/assets/74fb7416-2578-4ed0-9dba-ce55c0eaaba2)
+
  
 🎓 Currently exploring Cybersecurity with a focus on Blue Team defence.
 
