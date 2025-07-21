@@ -16,6 +16,8 @@
 
 🤝 Love collaborating on projects that make an impact
 
+![boss email GIF](https://github.com/user-attachments/assets/752700c4-ac55-4b8a-9c5f-825f3ef2fe49)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rii_chaa04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.whatsapp.com/channel/0029VbAcYB07j6g6dwny7710) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4WlEzuTCM) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RichieeRicha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rbudhori04@gmail.com) 
