@@ -1,12 +1,19 @@
 # 👩‍💻 About Me:
  
 🎓 Currently exploring Cybersecurity with a focus on Blue Team defence.
+
 ☁️ Working on projects using Microsoft Azure (VNet, Subnets, NSGs, Load Balancers, etc.)
+
 💻 Practicing Data Structures & Algorithms in C++ on LeetCode
+
 🔐 Passionate about CTFs & Cyber defense — Participating in events like HackVerse
+
 🧠 Building emotional intelligence & communication skills
+
 💡 Also learning AI in cybersecurity
+
 📚 Always curious, always learning — tech + self-growth = my jam!
+
 🤝 Love collaborating on projects that make an impact
 
 
